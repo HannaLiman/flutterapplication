@@ -4,14 +4,14 @@ A Flutter calculator created for the `FITech 101: Mobiilisovellukset ja niiden l
 
 This project is my first Flutter application.
 
-The project is also hosted on Netlify and can be found at 
-
 
 ## Run locally
 
 Run the app easily in vs code by selecting a target device from the status bar and by clicking `Run`and `Run Without Debugging`.
 
-The app can be run on Windows/Chrome or other if no ios or android emulator is available on your device.
+The app can be run on Chrome or some other browser if no ios or android emulator is available on your device.
+
+I reccomend using `Inspect` and changing screen to phone dimensions.
 
 
 ## Tests

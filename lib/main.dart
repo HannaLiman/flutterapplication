@@ -38,8 +38,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
         color: Colors.black,
         child: Padding(
           //creates padding for whole body
-          padding: EdgeInsets.all(16.0),
-
+          padding: const EdgeInsets.all(50.0),
           //creates UI for display
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
